@@ -1,4 +1,4 @@
-# deepin-security SIG
+# deepin-security-packaging SIG
 
 ## 小组简介
 

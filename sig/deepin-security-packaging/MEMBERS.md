@@ -14,7 +14,7 @@
  
 ## 小组成员
 
-- 组员昵称1
+- 组员昵称
 - [luxinyou](https://github.com/luxinyou)
 - [kyrie-z](https://github.com/kyrie-z)
 - [AaronZhang](https://zyv037.github.io/)
