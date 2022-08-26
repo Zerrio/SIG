@@ -38,5 +38,5 @@
 
 ## 相关链接
 
-- [GitHub 上的小组团队](https://github.com/orgs/deepin-community/teams/sig-deepin-security)
+- [GitHub 上的小组仓库](https://github.com/deepin-community/sig-deepin-security-packaging)
 - [邮件列表](https://www.freelists.org/list/deepin-devel )
